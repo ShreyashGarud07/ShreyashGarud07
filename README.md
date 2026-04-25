@@ -1,5 +1,22 @@
-# 💫 About Me:
-Smart systems combining AI & hardware<br>Web Development, Embedded Systems, and real-world problem-solving projects<br>Backend development and building complete, scalable applications<br>Backend development, OpenCV, and improving system design skills<br>I use AI like a power tool to build faster and turn ideas into working projects
+ About Me :
+
+🔭 I’m currently working on:
+Smart systems combining AI tools, UI/UX, and hardware (Traffic Monitoring System, Raspberry Pi-based projects)
+
+👯 I’m looking to collaborate on:
+UI/UX design, AI-powered apps, and real-world tech projects
+
+🤝 I’m looking for help with:
+Backend development and building complete, scalable applications
+
+🌱 I’m currently learning:
+Backend development, OpenCV, and improving system design skills
+
+💬 Ask me about:
+Using AI tools effectively, UI/UX design, Python, Raspberry Pi, and FPGA basics
+
+⚡ Fun fact:
+I use AI like a power tool to build faster and turn ideas into working projects
 
 
 ## 🌐 Socials:
