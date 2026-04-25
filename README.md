@@ -1,7 +1,7 @@
  About Me :
 
 🔭 I’m currently working on:
-Smart systems combining AI tools, UI/UX, and hardware (Traffic Monitoring System, Raspberry Pi-based projects)
+Smart systems combining AI tools, UI/UX, and hardware (Traffic Monitoring System, ESP32-based projects)
 
 👯 I’m looking to collaborate on:
 UI/UX design, AI-powered apps, and real-world tech projects
