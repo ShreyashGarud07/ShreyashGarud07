@@ -13,7 +13,7 @@ Backend development and building complete, scalable applications
 Backend development, OpenCV, and improving system design skills
 
 💬 Ask me about:
-Using AI tools effectively, UI/UX design, Python, Raspberry Pi, and FPGA basics
+Using AI tools effectively, UI/UX design, Electrical Circuits, Photography, Editing 
 
 ⚡ Fun fact:
 I use AI like a power tool to build faster and turn ideas into working projects
